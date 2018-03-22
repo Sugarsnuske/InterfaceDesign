@@ -26,13 +26,6 @@
 }
 
 .jumbotron {
-		@include backImage('../images/water.jpg'); 
-		//background: $darkblue;
-		//height: 600px;
-}
-
-.bridge {
-		@include backImage('../images/bridge.jpg'); 
-		//background: $darkblue;
-		//height: 600px;
+		background: $darkblue;
+		height: 600px;
 }
